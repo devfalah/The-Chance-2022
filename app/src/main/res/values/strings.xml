@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Primary Task</string>
+        <string name="country_text">Russian</string>
+        <string name="rating_text">4.5</string>
+        <string name="location_text">UK</string>
+        <string name="hours_value">3 hr</string>
+        <string name="job_title">Engineer</string>
+        <string name="user_name_text">Falah Hassan</string>
+        <string name="last_seen_text">5 Days ago</string>
+        <string name="review_count_value">(150 Reviews)</string>
+</resources>
